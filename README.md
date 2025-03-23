@@ -28,6 +28,10 @@ And also we can see the running container in Docker Desktop
 
 We run SSMS SQL Server Management Studio and we connect to the SQL Server running docker container
 
+**IMPORTANT**: download SSMS latest version from this web site: 
+
+https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms
+
 ![image](https://github.com/luiscoco/Identity_dotNET8_Authentication/assets/32194879/161280ed-c082-458b-b5d0-8474c050be70)
 
 ![image](https://github.com/luiscoco/Identity_dotNET8_Authentication/assets/32194879/f3b9ffd8-e3ea-4418-9e32-c63a90fa8df6)
